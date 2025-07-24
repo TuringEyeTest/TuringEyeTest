@@ -17,10 +17,13 @@
 ## ✍️ Citation
 If you find our work helpful, please cite as
 ```
-@article{gao2025pixels,
-  title={Pixels, Patterns, but No Poetry: To See The World like Humans},
-  author={Gao, Hongcheng and Huang, Zihao and Xu, Lin and Tang, Jingyi and Li, Xinhao and Liu, Yue and Li, Haoyang and Hu, Taihang and Lin, Minhua and Yang, Xinlong and Wu, Ge and Bi, Balong and Chen, Hongyu and Zhang, Wentao},
-  journal={arXiv preprint},
-  year={2025}
+@misc{gao2025pixelspatternspoetryworld,
+      title={Pixels, Patterns, but No Poetry: To See The World like Humans}, 
+      author={Hongcheng Gao and Zihao Huang and Lin Xu and Jingyi Tang and Xinhao Li and Yue Liu and Haoyang Li and Taihang Hu and Minhua Lin and Xinlong Yang and Ge Wu and Balong Bi and Hongyu Chen and Wentao Zhang},
+      year={2025},
+      eprint={2507.16863},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.16863}
 }
 ```
