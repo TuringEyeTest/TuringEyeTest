@@ -1,12 +1,13 @@
 <div align="center">
   <h1>
     Turing Eye Test
+    <!-- Pixels, Patterns, but no Poetry: To See the World like Humans -->
   </h1>
 
-  [![](https://img.shields.io/badge/HomePage--orange.svg?logo=homepage&logoColor=orange)](FIXME)
-  [![arXiv](https://img.shields.io/badge/arXiv-ARXIV_ID-b31b1b.svg?logo=arxiv&logoColor=white)](FIXME)
-  [![](https://img.shields.io/badge/Data-Benchmark-brightgreen.svg?logo=huggingface)](FIXME)
-  [![](https://img.shields.io/badge/License-Apache_2.0-blue.svg?logo=github)](FIXME)
+  [![](https://img.shields.io/badge/HomePage--orange.svg?logo=homepage&logoColor=orange)](https://turingeyetest.github.io/)
+  [![arXiv](https://img.shields.io/badge/arXiv-2507.16863-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.16863)
+  [![](https://img.shields.io/badge/Data-Benchmark-brightgreen.svg?logo=huggingface)](https://huggingface.co/datasets/HongchengGao/TuringEyeTest)
+  [![](https://img.shields.io/badge/License-Apache_2.0-blue.svg?logo=github)](https://github.com/TuringEyeTest/TuringEyeTest/blob/main/LICENSE)
 
 
 </div>
